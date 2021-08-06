@@ -1,0 +1,2 @@
+rootProject.name = "MyDriverTSL2591"
+include ':app'

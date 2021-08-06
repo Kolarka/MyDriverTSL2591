@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "918324623655",
+    "firebase_url": "https://tsl2591-driver-default-rtdb.firebaseio.com",
+    "project_id": "tsl2591-driver",
+    "storage_bucket": "tsl2591-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918324623655:android:777522e73989ff5d965102",
+        "android_client_info": {
+          "package_name": "com.my.mydrivertsl2591"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918324623655-hu47g5r8nukhsmtse22gtsk4p1dk043o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmEDpw1nfaUkKCwAmr8Q8JbSbcEogY23s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918324623655-hu47g5r8nukhsmtse22gtsk4p1dk043o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918324623655:android:b6e76892c9708f89965102",
+        "android_client_info": {
+          "package_name": "com.my.tsl2591_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918324623655-hu47g5r8nukhsmtse22gtsk4p1dk043o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmEDpw1nfaUkKCwAmr8Q8JbSbcEogY23s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918324623655-hu47g5r8nukhsmtse22gtsk4p1dk043o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918324623655:android:e33cb93661922f8f965102",
+        "android_client_info": {
+          "package_name": "hr.unipu.tsl2591"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918324623655-hu47g5r8nukhsmtse22gtsk4p1dk043o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmEDpw1nfaUkKCwAmr8Q8JbSbcEogY23s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918324623655-hu47g5r8nukhsmtse22gtsk4p1dk043o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
