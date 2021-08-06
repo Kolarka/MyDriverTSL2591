@@ -20,7 +20,7 @@ import java.util.List;
 import java.util.Observable;
 import java.util.Observer;
 
-//Driver koji ispisuje neku adresu
+
 
 public class TSL2591_SensorDriver extends Activity {
 
